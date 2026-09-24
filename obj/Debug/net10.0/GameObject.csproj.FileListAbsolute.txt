@@ -1,0 +1,14 @@
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\bin\Debug\net10.0\GameObject.exe
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\bin\Debug\net10.0\GameObject.deps.json
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\bin\Debug\net10.0\GameObject.runtimeconfig.json
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\bin\Debug\net10.0\GameObject.dll
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\bin\Debug\net10.0\GameObject.pdb
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\obj\Debug\net10.0\GameObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\obj\Debug\net10.0\GameObject.AssemblyInfoInputs.cache
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\obj\Debug\net10.0\GameObject.AssemblyInfo.cs
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\obj\Debug\net10.0\GameObject.csproj.CoreCompileInputs.cache
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\obj\Debug\net10.0\GameObject.dll
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\obj\Debug\net10.0\refint\GameObject.dll
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\obj\Debug\net10.0\GameObject.pdb
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\obj\Debug\net10.0\GameObject.genruntimeconfig.cache
+C:\Files\Development\VSCodeProjects\GameObject\GameObject\obj\Debug\net10.0\ref\GameObject.dll
