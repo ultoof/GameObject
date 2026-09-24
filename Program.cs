@@ -19,7 +19,8 @@ testObject1.PrintPosition();
 Console.WriteLine(testObject1.CollidesWith(testObject2));
 
 // Player Test
-// Test the Move() function aswell as picking up collectibles and gaining score with the Player and Collectible classes
+// Test the Move() function aswell as picking up collectibles and gaining score with the Player and Collectible classes. The first
+// Coin gives 1 point and the second gives 6
 if (player.CollidesWith(collectible1))
 {
     Console.WriteLine($"Player picked up a coin and gained {collectible1.Points} score");
